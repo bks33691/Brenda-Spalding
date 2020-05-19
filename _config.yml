@@ -1,1 +1,12 @@
 theme: jekyll-theme-minimal
+
+github_repo: https://github.com/bks33691/Brenda-Spalding
+github_branch: master
+
+email: brenda.spalding@gmail.com
+baseurl: ""
+
+collections:
+  content:
+    output: true
+    permalink: /:path/
